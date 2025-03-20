@@ -15,3 +15,12 @@
 [zdd-macro-keybaord](https://github.com/macrozzz/zdd-macro-keyboard)  <br>
 <img src="images/zdd.jpeg" width="200px">
  <hr>
+
+
+
+# CONTRIBUTE ⬇️⬇️
+
+1. Create your repository in your github
+2. Show the keyboard with images
+3. Add the software
+4. Create a pull request with the link to your github
