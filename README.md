@@ -1,13 +1,17 @@
 # Macro-keyboard-list-with-softwares
 
-<img src="sayo," width="200px">
-[Sayo device](https://github.com/macrozzz/Sayo-Device-Macro-keyboard)
+[Sayo device](https://github.com/macrozzz/Sayo-Device-Macro-keyboard) <br>
+<img src="images/sayo.jpg" width="200px">
+ <hr>
 
-<img src="" width="200px">
-[hid-tester](https://github.com/macrozzz/hid-tester-macro-keyboard)
+[hid-tester](https://github.com/macrozzz/hid-tester-macro-keyboard)  <br>
+<img src="images/hid-tester.jpeg" width="200px">
+ <hr>
 
-<img src="" width="200px">
-[mini-keyboard-macro-keyboard](https://github.com/macrozzz/mini-keyboard-macro-keyboard)
+[mini-keyboard-macro-keyboard](https://github.com/macrozzz/mini-keyboard-macro-keyboard)  <br>
+<img src="images/mini-keyboard.jpg" width="200px">
+ <hr>
 
-<img src="" width="200px">
-[zdd-macro-keybaord](https://github.com/macrozzz/zdd-macro-keyboard)
+[zdd-macro-keybaord](https://github.com/macrozzz/zdd-macro-keyboard)  <br>
+<img src="images/zdd.jpeg" width="200px">
+ <hr>
