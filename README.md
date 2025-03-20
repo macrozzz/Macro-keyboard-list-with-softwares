@@ -11,7 +11,7 @@
 [hid-tester](https://github.com/macrozzz/hid-tester-macro-keyboard)  <br>
 <img src="images/hid-tester.jpeg" width="200px">
 <img src="images/hid tester 3k1k.jpg" width="200px"><br>
-Buy here: [6key 1 knob](https://s.click.aliexpress.com/e/_ooyx4xn)
+Buy here: [6key 1 knob](https://s.click.aliexpress.com/e/_ooyx4xn) , [3 key 1 knob](https://s.click.aliexpress.com/e/_onOjEKV)
  <hr>
 
 [mini-keyboard-macro-keyboard](https://github.com/macrozzz/mini-keyboard-macro-keyboard)  <br>
@@ -20,7 +20,8 @@ Buy here: [6key 1 knob](https://s.click.aliexpress.com/e/_ooyx4xn)
  <hr>
 
 [zdd-macro-keybaord](https://github.com/macrozzz/zdd-macro-keyboard)  <br>
-<img src="images/zdd.jpeg" width="200px">
+<img src="images/zdd.jpeg" width="200px"><br>
+[Buy here](https://s.click.aliexpress.com/e/_olAbSJn)
  <hr>
 
 
@@ -29,5 +30,5 @@ Buy here: [6key 1 knob](https://s.click.aliexpress.com/e/_ooyx4xn)
 
 1. Create your repository in your github
 2. Show the keyboard with images
-3. Add the software
-4. Create a pull request with the link to your github
+3. Add the software if available
+4. Create a pull request with the link to your github and link to the product
