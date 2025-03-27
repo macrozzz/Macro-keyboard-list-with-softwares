@@ -12,18 +12,18 @@ When you click on my link to aliexpress, they are my affiliate links, show some 
 
  <hr>
 
-[hid-tester](https://github.com/macrozzz/hid-tester-macro-keyboard)  <br>
+[Hid-tester](https://github.com/macrozzz/hid-tester-macro-keyboard)  <br>
 <img src="images/hid-tester.jpeg" width="200px">
 <img src="images/hid tester 3k1k.jpg" width="200px"><br>
 Buy here: [6key 1 knob](https://s.click.aliexpress.com/e/_ooyx4xn) , [3 key 1 knob](https://s.click.aliexpress.com/e/_onOjEKV)
  <hr>
 
-[mini-keyboard-macro-keyboard](https://github.com/macrozzz/mini-keyboard-macro-keyboard)  <br>
+[Mini-keyboard-macro-keyboard](https://github.com/macrozzz/mini-keyboard-macro-keyboard)  <br>
 <img src="images/mini-keyboard.jpg" width="200px"><br>
 [Buy here](https://s.click.aliexpress.com/e/_ol27cgv)
  <hr>
 
-[zdd-macro-keybaord](https://github.com/macrozzz/zdd-macro-keyboard)  <br>
+[Zdd-macro-keybaord](https://github.com/macrozzz/zdd-macro-keyboard)  <br>
 <img src="images/zdd.jpeg" width="200px"><br>
 [Buy here](https://s.click.aliexpress.com/e/_olAbSJn)
  <hr>
