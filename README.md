@@ -1,5 +1,8 @@
 # Macro-keyboard-list-with-softwares
 
+I have created repository for each keyboard on the list eg. Sayo Device
+When you click on my link to aliexpress, they are my aliexpress links, show some support if you can.<3
+
 [Sayo device](https://github.com/macrozzz/Sayo-Device-Macro-keyboard) <br>
 <img src="images/sayo.jpg" width="200px">
  <img src="images/sayo 16 k.jpg" width="200px">
